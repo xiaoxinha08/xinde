@@ -5,16 +5,16 @@
             "type": 0,
             "url": "http://zozo.work.gd/ys/i/?QQ=999",
             "playerType": 1,
-            "epg": "http://diyp22.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
         },
         {
             "name": "移动直播",
             "type": 0,
             "url": "http://pan.losfer.cn/down.php/cc80630c74114fdbfd9c8a2bbd30d15c.jpg",
             "playerType": 1,
-                        "epg": "http://diyp22.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+                        "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png"
        
         }
       
